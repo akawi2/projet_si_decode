@@ -50,5 +50,5 @@ def brute_force_xor(file_path, start_key, output_file="resultats.txt"):
 
 # Utilisation
 file_path = "./PE.txt"  # Remplacez par votre fichier chiffré
-start_key = "brhaaa"  # Clé de départ
+start_key = "daaaaa"  # Clé de départ
 brute_force_xor(file_path, start_key)
